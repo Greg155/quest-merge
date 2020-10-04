@@ -1,3 +1,5 @@
+REMOTE
+
 # quest-merge
 Hello world,
 
